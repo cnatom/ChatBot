@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatUI</string>
+    <string name="fasong">fasong</string>
+    <string name="please">please</string>
+    <string name="hello">hello</string>
+    <string name="send">send</string>
+    <string name="hint_text">输入...</string>
+</resources>
